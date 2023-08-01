@@ -1,4 +1,4 @@
-# Full Stack JavaScript web development
+# Full Stack JavaScript web Development
 
 ## HTML
 
