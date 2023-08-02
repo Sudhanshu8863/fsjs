@@ -5,6 +5,7 @@
 - heading and paragraph
 - table
 - image and anchor
+- form
 
 ## CSS
 
