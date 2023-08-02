@@ -2,8 +2,9 @@
 
 ## HTML
 
--heading and paragraph
--table
+- heading and paragraph
+- table
+- image and anchor
 
 ## CSS
 
