@@ -6,6 +6,7 @@
 - table
 - image and anchor
 - form
+- formatting
 
 ## CSS
 
