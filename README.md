@@ -7,6 +7,7 @@
 - image and anchor
 - form
 - formatting
+- citation
 
 ## CSS
 
