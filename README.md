@@ -2,6 +2,9 @@
 
 ## HTML
 
+-heading and paragraph
+-table
+
 ## CSS
 
 ## Tailwind
