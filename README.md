@@ -14,4 +14,6 @@
 
 ## CSS
 
+- universal selector
+
 ## Tailwind
