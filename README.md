@@ -19,5 +19,6 @@
 - class and id selector
 - and selector (chained)
 - combined selector
+- inside an element selector
 
 ## Tailwind
