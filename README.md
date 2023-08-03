@@ -18,5 +18,6 @@
 - indivisual selector
 - class and id selector
 - and selector (chained)
+- combined selector
 
 ## Tailwind
