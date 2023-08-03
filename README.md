@@ -20,5 +20,6 @@
 - and selector (chained)
 - combined selector
 - inside an element selector
+- direct child selector
 
 ## Tailwind
