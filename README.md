@@ -15,5 +15,7 @@
 ## CSS
 
 - universal selector
+- indivisual selector
+- class and id selector
 
 ## Tailwind
