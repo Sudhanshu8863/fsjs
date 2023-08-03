@@ -21,5 +21,6 @@
 - combined selector
 - inside an element selector
 - direct child selector
+- sibling selector
 
 ## Tailwind

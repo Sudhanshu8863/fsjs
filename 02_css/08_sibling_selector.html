@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sibling selector</title>
+  <style>
+    /* select all next sibling (~ or +) */
+    .hanuman~p {
+      text-align: center;
+    }
+
+    .hanuman+p {
+      color: rgb(196, 123, 21);
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Jai SHREE RAM</h1>
+  <h2>Ram bhakt</h2>
+  <div>
+
+    <p class="hanuman">Hanuman</p>
+    <p>Shiv</p>
+    <h3>Sudhanshu</h3>
+    <p>Govind Ramanujdas</p>
+
+  </div>
+
+</body>
+
+</html>
