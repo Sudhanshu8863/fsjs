@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>positions</title>
+  <style>
+    * {
+      height: 1500px;
+      background-color: rgb(255, 166, 0);
+      color: rgb(0, 0, 0);
+    }
+
+    .box {
+      width: 200px;
+      height: 200px;
+      border: 2px solid black;
+      margin: 20px 20px;
+      font-size: 50px;
+      text-align: center;
+      color: whitesmoke;
+    }
+
+    /* static is the default value of position */
+    #box1 {
+      position: static;
+    }
+
+    /* position fixed is going to fix the element */
+    /* one example of position-fixed is chat-bot */
+    /* it leaves its space */
+    #box2 {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+    }
+
+    /* position sticky is going to stick to a postion */
+    /* when we scroll a page and we want that when we scroll the page it is going to stick to a position then we use position sticky */
+    /* it did not leave its space */
+    #box3 {
+      position: sticky;
+      left: 500px;
+      top: 20px;
+    }
+
+    /* position relative is move according to its original space */
+    /* it did not leave its space */
+    #box4 {
+      position: relative;
+      left: 50px;
+      bottom: 50px;
+    }
+
+    /* position absolute is like position relative but there is a difference and that is whenerver we set an element position absolute it moves according to its parent element on the other hand position relative move to its normal position */
+    #box5 {
+      position: absolute;
+      right: 250px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box" id="box1">static</div>
+  <div class="box" id="box2">fixed</div>
+  <div class="box" id="box3">sticky</div>
+  <div class="box" id="box4">relative</div>
+  <div class="box" id="box5">absolute</div>
+</body>
+
+</html>

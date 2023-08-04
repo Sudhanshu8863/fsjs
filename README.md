@@ -24,5 +24,6 @@
 - sibling selector
 - nth-child selector
 - pseudo classes
+- positions
 
 ## Tailwind
