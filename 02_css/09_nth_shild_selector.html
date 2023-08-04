@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>nth child selector</title>
+  <style>
+    h1 {
+      text-align: center;
+      color: orangered;
+    }
+
+    ul li {
+      font-size: 25px;
+      list-style: none;
+    }
+
+    /* select even item */
+    li:nth-child(even) {
+      text-align: right;
+    }
+
+    /* select odd item */
+    li:nth-child(odd) {
+      text-align: center;
+    }
+
+    /* we can also pass our mathematical logic */
+    /* it starts like */
+    /* 2n+5 => 2*0 + 5 => 5 */
+    /* 2n+5 => 2*1 + 5 => 7 */
+    /* 2n+5 => 2*2 + 5 => 9 */
+    /* where n denotes number */
+    li:nth-child(2n+5) {
+      text-align: left;
+    }
+
+    /* first-child and last-child selector */
+    li:first-child {
+      color: orangered;
+    }
+
+    li:last-child {
+      color: orangered;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Jai SHREE RAM</h1>
+
+  <ul>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+    <li>four</li>
+    <li>five</li>
+    <li>six</li>
+    <li>seven</li>
+    <li>eight</li>
+    <li>nine</li>
+    <li>ten</li>
+  </ul>
+
+</body>
+
+</html>

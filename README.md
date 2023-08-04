@@ -22,5 +22,6 @@
 - inside an element selector
 - direct child selector
 - sibling selector
+- nth-child selector
 
 ## Tailwind
