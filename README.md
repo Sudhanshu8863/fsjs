@@ -23,5 +23,6 @@
 - direct child selector
 - sibling selector
 - nth-child selector
+- pseudo classes
 
 ## Tailwind

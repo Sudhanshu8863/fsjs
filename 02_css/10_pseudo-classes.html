@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>pseudo-classes</title>
+  <style>
+    h1 {
+      border: 2px solid orangered;
+      text-align: center;
+    }
+
+    /* pseudo whatever element you are targetting pseudo before and after selector works within the element */
+    h1::before {
+      content: "before";
+      display: block;
+      text-align: left;
+    }
+
+    h1::after {
+      content: "after";
+      display: block;
+      text-align: right;
+    }
+
+    /* unvisited link */
+    a:link {
+      color: red;
+    }
+
+    /* visited link */
+    a:visited {
+      color: green;
+    }
+
+    /* mouse over link */
+    a:hover {
+      color: hotpink;
+    }
+
+    /* selected link */
+    a:active {
+      color: blue;
+    }
+
+    input {
+      display: block;
+    }
+
+    /* whenever we clicked in input field or to focus, this property is going to apply */
+    input:focus {
+      background-color: rgb(220, 94, 56);
+      color: white;
+      padding: 10px 20px;
+      font-size: 25px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Jai SHREE RAM</h1>
+
+  <a
+    href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%AF_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%B0%E0%A4%BE%E0%A4%AE">Ram</a>
+
+  <input type="text" placeholder="Jai SHREE RAM">
+
+</body>
+
+</html>
