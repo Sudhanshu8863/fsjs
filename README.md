@@ -26,5 +26,6 @@
 - pseudo classes
 - positions
 - flex
+- media query
 
 ## Tailwind
