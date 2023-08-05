@@ -25,5 +25,6 @@
 - nth-child selector
 - pseudo classes
 - positions
+- flex
 
 ## Tailwind
