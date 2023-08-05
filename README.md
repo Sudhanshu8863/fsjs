@@ -27,5 +27,6 @@
 - positions
 - flex
 - media query
+- grid
 
 ## Tailwind

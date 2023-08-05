@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>grid</title>
+  <style>
+    .container {
+      display: grid;
+      /* grid-template-columns: 100px 100px;
+      grid-template-rows: 100px 100px; */
+
+      grid-template-columns: repeat(3, 200px);
+      grid-template-rows: repeat(3, 100px);
+    }
+
+    .item {
+      border: 1px solid black;
+    }
+
+    #box1 {
+      grid-column-start: 1;
+      grid-column-end: 3;
+      grid-row-start: 1;
+      grid-row-end: 3;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="item" id="box1">box1</div>
+    <div class="item">box2</div>
+    <div class="item">box3</div>
+    <div class="item">box4</div>
+  </div>
+</body>
+
+</html>
