@@ -4,7 +4,7 @@ specialized headphones for meditation
 
 [link](https://medhead.netlify.app/ "medhead")
 
-## Useges Techhnology:
+## Usages Technology:
 
 ```
 HTML, CSS
