@@ -3,7 +3,11 @@
 # projects
 
 - ## medhead
+
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/01_medhead) and [website](https://medhead.netlify.app/)
+
+- ## healthcare
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/02_heathcare) and [website](https://totalhealthcare.netlify.app/)
 
 ## HTML
 
