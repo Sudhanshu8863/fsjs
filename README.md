@@ -37,5 +37,3 @@
 - flex
 - media query
 - grid
-
-## Tailwind
