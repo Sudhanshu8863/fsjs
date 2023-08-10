@@ -9,6 +9,9 @@
 - ## healthcare
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/02_heathcare) and [website](https://totalhealthcare.netlify.app/)
 
+- ## justiceDepartment
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/03_justiceDepartment) and [website](https://justicedepartment.netlify.app/)
+
 ## HTML
 
 - heading and paragraph
