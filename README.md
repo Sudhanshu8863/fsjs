@@ -12,6 +12,9 @@
 - ## justiceDepartment
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/03_justiceDepartment) and [website](https://justicedepartment.netlify.app/)
 
+- ## VSCode clone
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/04_VSCode) and [website](https://visualstudiocodeclone.netlify.app/)
+
 ## HTML
 
 - heading and paragraph
