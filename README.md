@@ -42,3 +42,7 @@
 - flex
 - media query
 - grid
+
+## JavaScript
+
+  - 01_basics
