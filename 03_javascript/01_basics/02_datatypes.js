@@ -3,13 +3,13 @@
 
 console.log(3 
     +
-     3) // code readability should be high
+     3) // this is not a good practice code readability should be high
 
-console.log("Hitesh")
+console.log("Sudhanshu")
 
 
-let name = "hitesh"
-let age = 18
+let name = "Sudhanshu"
+let age = 23
 let isLoggedIn = false
 let state;
 
