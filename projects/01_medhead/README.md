@@ -11,4 +11,4 @@ HTML, CSS
 
 ```
 
-![website output](https://github.com/SudhanshuModi/medhead/assets/87432653/c8e31b63-9aa3-40c1-ac18-5b4626b4583f)
+![website output](https://github.com/SudhanshuModi/medhead/assets/87432653/eb1316a2-ea20-4434-af17-09140785fcbf)
