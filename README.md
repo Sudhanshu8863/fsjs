@@ -14,6 +14,9 @@
 - ## VSCode clone
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/04_VSCode) and [website](https://visualstudiocodeclone.netlify.app/)
 
+- ## yourCreditCard
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/05_yourCreditCard) and [website](https://yourcreditcard.netlify.app/)
+
 ## HTML
 
 - heading and paragraph
