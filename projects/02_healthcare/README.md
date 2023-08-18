@@ -11,4 +11,4 @@ HTML, CSS
 
 ```
 
-![website output](https://github.com/SudhanshuModi/healthcare/assets/87432653/5b3508d3-6ab5-4066-b3d6-133e4068da04)
+![output](https://github.com/SudhanshuModi/fsjs/assets/87432653/4a53d3ad-c066-4cc6-a3cd-0184e5df6af2)
