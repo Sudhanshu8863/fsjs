@@ -17,6 +17,9 @@
 - ## yourCreditCard
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/05_yourCreditCard) and [website](https://yourcreditcard.netlify.app/)
 
+- ## hostingService
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/06_hostingService) and [website](https://yourhostingservice.netlify.app/)
+
 ## HTML
 
 - heading and paragraph
