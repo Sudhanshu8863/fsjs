@@ -25,9 +25,12 @@
 -   ## hostingService
     ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/06_hostingService) and [website](https://yourhostingservice.netlify.app/)
 
+    ## gameHouse
+    ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/07_gameHouse) and [website](https://gamehome.netlify.app/)
+
 ## HTML
 
--   heading and paragraph
+-   Heading and paragraph
 -   table
 -   image and anchor
 -   form
@@ -39,16 +42,16 @@
 
 ## CSS
 
--   universal selector
--   indivisual selector
--   class and id selector
+-   Universal selector
+-   individual selector
+-   Class and id selector
 -   and selector (chained)
 -   combined selector
 -   inside an element selector
--   direct child selector
+-   Direct child selector
 -   sibling selector
 -   nth-child selector
--   pseudo classes
+-   pseudo-classes
 -   positions
 -   flex
 -   media query
