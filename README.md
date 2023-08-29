@@ -26,11 +26,11 @@
 
     ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/06_hostingService) and [website](https://yourhostingservice.netlify.app/)
 
-    ## gameHouse
+-   ## gameHouse
 
     ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/07_gameHouse) and [website](https://gamehome.netlify.app/)
 
-    ## realState
+-   ## realState
 
     ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/08_realState) and [website](https://estatehome.netlify.app/)
 
