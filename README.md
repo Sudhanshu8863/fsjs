@@ -70,3 +70,4 @@
 -   [03_basics](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/03_basics)
 -   [04_control_flow](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/04_control_flow)
 -   [05_iterations](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/05_iterations)
+-   [06_DOM](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/06_DOM)
