@@ -142,3 +142,27 @@ document.querySelector("header img").src = "./assets/ineuron-logo.png";
 ```javascript
 document.querySelector(".app_price span").innerText = "$10";
 ```
+
+## Assignment 7
+
+### task 1
+
+```javascript
+const language = document.querySelectorAll(".main__languages a");
+language.forEach((item) => {
+    if (item.innerText.includes("2.0")) {
+        item.remove();
+    }
+});
+```
+
+### task 2
+
+```javascript
+const input = document.querySelector(".main__form-input");
+input.disabled = false;
+input.value = "iNeuron";
+const btn = document.querySelector(".main__form-btn");
+btn.disabled = false;
+btn.onclick = location.reload();
+```
