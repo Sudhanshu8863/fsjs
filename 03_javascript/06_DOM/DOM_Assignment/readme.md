@@ -128,3 +128,17 @@ recipeText.forEach((item) => {
     item.style.color = "#2827CC";
 });
 ```
+
+## Assignment 6
+
+### task 1
+
+```javascript
+document.querySelector("header img").src = "./assets/ineuron-logo.png";
+```
+
+### task 2
+
+```javascript
+document.querySelector(".app_price span").innerText = "$10";
+```
