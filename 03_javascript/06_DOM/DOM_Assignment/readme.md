@@ -191,3 +191,24 @@ navbarToggler.onclick = () => {
     navbarTogglerDemo01.style.display = "block";
 };
 ```
+
+## Assignment 9
+
+### task 1
+
+```javascript
+const title = document.querySelector("h1.title");
+title.style.color = "red";
+title.style.fontSize = "2.5em";
+```
+
+### task 2
+
+```javascript
+const button = document.querySelector("button.add-to-cart");
+const style = document.createElement("style");
+style.type = "text/css";
+style.innerHTML = ".hoverRed:hover { background-color:red }";
+document.getElementsByTagName("head")[0].appendChild(style);
+button.classList.add("hoverRed");
+```
