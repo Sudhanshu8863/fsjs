@@ -166,3 +166,28 @@ const btn = document.querySelector(".main__form-btn");
 btn.disabled = false;
 btn.onclick = location.reload();
 ```
+
+## Assignment 8
+
+### task 1
+
+```javascript
+const newDiv = document.querySelector(".new");
+newDiv.style.overflowY = "scroll";
+```
+
+### task 2
+
+```javascript
+document.body.style.background = "white";
+```
+
+### task 3
+
+```javascript
+const navbarTogglerDemo01 = document.querySelector("#navbarTogglerDemo01");
+const navbarToggler = document.querySelector(".navbar-toggler");
+navbarToggler.onclick = () => {
+    navbarTogglerDemo01.style.display = "block";
+};
+```
