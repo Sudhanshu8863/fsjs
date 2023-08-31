@@ -87,3 +87,19 @@ textArea.forEach((item) => {
     item.placeholder = "Hello World";
 });
 ```
+
+## Assignment 4
+
+```javascript
+document.querySelector(".barbarian").lastElementChild.style.background =
+    "#EDBF69";
+document.querySelector(".archer").lastElementChild.style.background = "#E6425E";
+document.querySelector(".giant").lastElementChild.style.background = "#F4BE2C";
+document.querySelector(".goblin").lastElementChild.style.background = "#4DD637";
+document.querySelector(".wizard").lastElementChild.style.background = "#12B0E8";
+
+const oneThird = document.querySelectorAll(".one-third");
+oneThird.forEach((items) => {
+    items.style.color = "white";
+});
+```
