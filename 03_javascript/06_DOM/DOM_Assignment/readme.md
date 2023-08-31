@@ -103,3 +103,28 @@ oneThird.forEach((items) => {
     items.style.color = "white";
 });
 ```
+
+## Assignment 5
+
+```javascript
+const element = document.querySelector(".nav-links + div");
+const proSubscription = element.querySelector("a").cloneNode(true);
+proSubscription.innerText = "Pro Subscription";
+element.appendChild(proSubscription);
+
+const aContainer = document.querySelector(".tags-container > div");
+const a = document.createElement("a");
+a.innerText = "Chinese (7)";
+aContainer.appendChild(a);
+
+const recipeGallery = document.querySelector(".recipe-gallery");
+const div = document.createElement("div");
+div.classList.add("card");
+div.innerHTML = "<h1>add 6th card here</h1>";
+recipeGallery.appendChild(div);
+
+const recipeText = document.querySelectorAll(".recipe-text");
+recipeText.forEach((item) => {
+    item.style.color = "#2827CC";
+});
+```
