@@ -81,3 +81,96 @@ setInterval(function () {
     clock.innerHTML = date.toLocaleTimeString();
 }, 1000);
 ```
+
+## project 4 solution
+
+```javascript
+let randomNumber = parseInt(Math.random() * 100 + 1);
+
+const form = document.querySelector("form");
+const userInput = document.querySelector("#guessField");
+const submit = document.querySelector("#subt");
+const prevGuess = document.querySelector(".guesses");
+const remChance = document.querySelector(".lastResult");
+const lowOrHi = document.querySelector(".lowOrHi");
+const resultParas = document.querySelector(".resultParas");
+
+let playGame = true;
+let chance = 1;
+
+if (playGame) {
+    submit.addEventListener("click", function (e) {
+        e.preventDefault();
+        const guess = parseInt(userInput.value);
+        validateGuess(guess);
+    });
+}
+
+function validateGuess(guess) {
+    if (isNaN(guess)) {
+        displayMessage("please enter a valid number");
+    } else if (guess < 1) {
+        displayMessage("please enter a number more than 1");
+    } else if (guess > 100) {
+        displayMessage("please enter a number less than 100");
+    } else {
+        if (chance === 10) {
+            displayGuess(guess);
+            displayMessage(`Game Over. Random number was ${randomNumber}`);
+            endGame();
+        } else {
+            displayGuess(guess);
+            checkGuess(guess);
+        }
+    }
+}
+
+function checkGuess(guess) {
+    if (guess < randomNumber) {
+        displayMessage("your number is TOOO low");
+    } else if (guess > randomNumber) {
+        displayMessage("your number is TOOO high");
+    } else {
+        displayMessage("You Guessed it right");
+        endGame();
+    }
+}
+
+function displayGuess(guess) {
+    userInput.value = "";
+    prevGuess.innerHTML += `${guess}, `;
+    chance++;
+    remChance.innerHTML = `${11 - chance}`;
+}
+
+function displayMessage(message) {
+    lowOrHi.innerHTML = message;
+}
+
+function endGame() {
+    userInput.setAttribute("disabled", "");
+    submit.setAttribute("disabled", "");
+    playGame = false;
+    const p = document.createElement("p");
+    p.innerHTML = `<span id="startNewGame">Start New Game</span>`;
+    resultParas.appendChild(p);
+    resultParas
+        .querySelector("#startNewGame")
+        .addEventListener("click", function () {
+            newGame();
+        });
+}
+
+function newGame() {
+    randomNumber = parseInt(Math.random() * 100 + 1);
+    chance = 1;
+    prevGuess.innerHTML = "";
+    lowOrHi.innerHTML = "";
+    remChance.innerHTML = `${11 - chance}`;
+    userInput.removeAttribute("disabled");
+    submit.removeAttribute("disabled");
+    resultParas.querySelector("#startNewGame").remove();
+
+    playGame = true;
+}
+```
