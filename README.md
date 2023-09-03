@@ -34,6 +34,10 @@
 
     ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/08_realState) and [website](https://estatehome.netlify.app/)
 
+-   ## beatsHeadphone
+
+    ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/projects/09_beatsLanding) and [website](https://best-beats-headphones.netlify.app/)
+
 ## HTML
 
 -   Heading and paragraph
