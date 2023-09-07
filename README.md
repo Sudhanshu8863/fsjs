@@ -4,6 +4,8 @@
 
 ## [HTML-CSS-Projects](https://github.com/SudhanshuModi/fsjs/tree/main/HTML-CSS-Projects/)
 
+## [react-projects](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/)
+
 ## HTML
 
 - Heading and paragraph
@@ -45,3 +47,7 @@
 - [08_advance_one](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/08_advance_one)
 - [09_classes_and_oop](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/09_classes_and_oop)
 - [10_fun_with_js](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/10_fun_with_js)
+
+## React
+
+- [01viteReact-RockPaperScissor](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/01viteReact-RockPaperScissor)
