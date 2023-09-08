@@ -50,4 +50,4 @@
 
 ## React
 
--   [01viteReact-RockPaperScissor(useState)](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/01viteReact-RockPaperScissor)
+-   [01viteReact-RockPaperScissor (useState)](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/01viteReact-RockPaperScissor)
