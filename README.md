@@ -4,7 +4,7 @@
 
 ## [HTML-CSS-Projects](https://github.com/SudhanshuModi/fsjs/tree/main/HTML-CSS-Projects/)
 
-## [React-projects](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/)
+## [React-Projects](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/)
 
 ## HTML
 
