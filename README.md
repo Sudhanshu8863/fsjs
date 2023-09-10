@@ -6,7 +6,7 @@
 
 ## [React-Projects](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/)
 
-## HTML
+## [HTML](https://github.com/SudhanshuModi/fsjs/tree/main/01_html)
 
 -   Heading and paragraph
 -   table
@@ -18,7 +18,7 @@
 -   iframe on table
 -   audio and video
 
-## CSS
+## [CSS](https://github.com/SudhanshuModi/fsjs/tree/main/02_css)
 
 -   Universal selector
 -   individual selector
@@ -35,7 +35,7 @@
 -   media query
 -   grid
 
-## JavaScript
+## [JavaScript](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript)
 
 -   [01_basics](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/01_basics)
 -   [02_basics](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/02_basics)
@@ -48,9 +48,8 @@
 -   [09_classes_and_oop](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/09_classes_and_oop)
 -   [10_fun_with_js](https://github.com/SudhanshuModi/fsjs/tree/main/03_javascript/10_fun_with_js)
 
-## React
+## [React](https://github.com/SudhanshuModi/fsjs/tree/main/04_react)
 
 -   [01viteReact-RockPaperScissor (useState)](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/01viteReact-RockPaperScissor)
-
--   [01viteReact-RockPaperScissor (useState)](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/01viteReact-RockPaperScissor)
--   [01viteReact-RockPaperScissor (useState)](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/01viteReact-RockPaperScissor)
+-   [02useState_part2](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/02useState_part2)
+-   [03BGChanger (useState)](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/03BGChanger)
