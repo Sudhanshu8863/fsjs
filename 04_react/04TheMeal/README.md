@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [link](https://sudhanshu-the-meal.netlify.app/)
 
-Currently, two official plugins are available:
+This Template is for get your favorite food recipe and how to make it.
+It updates its value with the help of `useState()` and uses `axios` for fetching data
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## for cloning this site and run use these commands:
+
+```
+git clone https://github.com/SudhanshuModi/fsjs/tree/main/04_react/04TheMeal
+cd 04TheMeal
+npm i
+npm run dev
+```
