@@ -1,11 +1,15 @@
--   ## RockPaperScissor
+- ## RockPaperScissor
 
-    ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/rockPaperScissorDist) and [website](https://play-rockpaperscissor.netlify.app/)
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/rockPaperScissorDist) and [website](https://play-rockpaperscissor.netlify.app/)
 
--   ## BGChanger
+- ## BGChanger
 
-    ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/bgChangerDist) and [website](https://sudhanshu-bgchanger.netlify.app/)
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/bgChangerDist) and [website](https://sudhanshu-bgchanger.netlify.app/)
 
--   ## TheMeal
+- ## TheMeal
 
-    ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/TheMealDist) and [website](https://sudhanshu-the-meal.netlify.app/)
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/TheMealDist) and [website](https://sudhanshu-the-meal.netlify.app/)
+
+- ## TodoApp
+
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/todoAppDist) and [website](https://sudhanshu-todo.netlify.app/)
