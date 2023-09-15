@@ -13,3 +13,7 @@
 - ## TodoApp
 
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/todoAppDist) and [website](https://sudhanshu-todo.netlify.app/)
+
+- ## MovieHub
+
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/MovieHubDist) and [website](https://sudhanshu-moviehub.netlify.app/)
