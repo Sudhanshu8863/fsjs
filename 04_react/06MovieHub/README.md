@@ -1,8 +1,19 @@
-# React + Vite
+# Movie Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [link](https://sudhanshu-moviehub.netlify.app/)
 
-Currently, two official plugins are available:
+This Template is for get Movie Details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+
+- show you results if Movie is available in API's Database
+- If you entered wrong name then its not giving you error
+
+## for cloning this site and run use these commands:
+
+```
+git clone https://github.com/SudhanshuModi/fsjs/tree/main/04_react/06MovieHub
+cd 06MovieHub
+npm i
+npm run dev
+```
