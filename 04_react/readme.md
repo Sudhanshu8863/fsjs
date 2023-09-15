@@ -20,3 +20,7 @@
 
   This Template is for get your Todo work.
   It updates its value with the help of `useState()`
+
+- ## 05TodoApp ([link](https://sudhanshu-moviehub.netlify.app/))
+
+  This Template is for get movie details.
