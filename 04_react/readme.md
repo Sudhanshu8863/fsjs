@@ -24,3 +24,12 @@
 - ## 06MovieHub ([link](https://sudhanshu-moviehub.netlify.app/))
 
   This Template is for get movie details.
+
+- ## 06PasswordGenerator ([link](https://sudhanshu-password-generator.netlify.app/))
+
+  This Template is for Generate password.
+
+  It uses `useState` for storing and updating values
+  for optimization it uses `useCallback`
+  for re-run if anything changes it uses `useEffect`
+  for giving select effect when user click to copy it uses `useRef`
