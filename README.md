@@ -56,3 +56,4 @@
 - [04TheMeal](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/04TheMeal)
 - [05TodoApp](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/05TodoApp)
 - [06MovieHub](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/06MovieHub)
+- [07PasswordGenerator](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/07PasswordGenerator)
