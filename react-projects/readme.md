@@ -17,3 +17,7 @@
 - ## MovieHub
 
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/MovieHubDist) and [website](https://sudhanshu-moviehub.netlify.app/)
+
+- ## PasswordGenerator
+
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/passwordGeneratorDist) and [website](https://sudhanshu-password-generator.netlify.app/)
