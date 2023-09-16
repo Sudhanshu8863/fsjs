@@ -25,7 +25,7 @@
 
   This Template is for get movie details.
 
-- ## 06PasswordGenerator ([link](https://sudhanshu-password-generator.netlify.app/))
+- ## 07PasswordGenerator ([link](https://sudhanshu-password-generator.netlify.app/))
 
   This Template is for Generate password.
 
