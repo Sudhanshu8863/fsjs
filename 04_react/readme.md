@@ -33,3 +33,7 @@
   for optimization it uses `useCallback`
   for re-run if anything changes it uses `useEffect`
   for giving select effect when user click to copy it uses `useRef`
+
+- ## React Rounter
+
+  On this we will learn about React-Rounter.
