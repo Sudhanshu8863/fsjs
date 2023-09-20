@@ -37,3 +37,7 @@
 - ## React Rounter
 
   On this we will learn about React-Rounter.
+
+- ## Redux - Counter App
+
+  On this we will learn about redux in react.
