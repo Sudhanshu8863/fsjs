@@ -40,4 +40,8 @@
 
 - ## Redux - Counter App
 
-  On this we will learn about redux in react.
+  On this we will learn about redux in react and build Counter App.
+
+- ## Redux - Todo App
+
+  On this we will learn about redux in react and build Todo App.
