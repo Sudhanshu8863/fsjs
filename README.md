@@ -57,3 +57,6 @@
 - [05TodoApp](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/05TodoApp)
 - [06MovieHub](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/06MovieHub)
 - [07PasswordGenerator](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/07PasswordGenerator)
+- [08ReactRouterDemo](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/08ReactRouterDemo)
+- [09counterwithRedux](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/09counterwithRedux)
+- [10redux-todo](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/10redux-todo)
