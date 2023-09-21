@@ -45,3 +45,9 @@
 - ## 10 Redux - Todo App
 
   On this we will learn about redux in react and build Todo App.
+
+- ## 11 Currency Counter ([link](https://sudhanshu-currencyconverter.netlify.app/))
+
+  This Template is for Currency Converter.
+  It uses `useState` for storing and updating values
+  Here we design custom Hook.
