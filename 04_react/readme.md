@@ -1,47 +1,23 @@
-- ## 01RockPaperScissor ([link](https://play-rockpaperscissor.netlify.app/))
+# Currency Counter
 
-  The process of changing values and to show you the result of winner we use `useState()` for it.
+### [link]()
 
-- ## 02useState_part2
+This Template is for Currency Converter.
 
-  On this it is responsible for taking input from user and display it on screen.
+It uses `useState` for storing and updating values
 
-- ## 03BGChanger ([link](https://sudhanshu-bgchanger.netlify.app/))
+Here we design custom Hook.
 
-  This Template is for changing background color using `useState()`
-  The buttons and style is not hard coded here it is dynamically generated through color list
+### Features
 
-- ## 04TheMeal ([link](https://sudhanshu-the-meal.netlify.app/))
+- It fetches data from API and show you results
+- You can select currency and swap it according to yourself
 
-  This Template is for get your favorite food recipe and how to make it.
-  It updates its value with the help of `useState()` and uses `axios` for fetching data
+## for cloning this site and run use these commands:
 
-- ## 05TodoApp ([link](https://sudhanshu-todo.netlify.app/))
-
-  This Template is for get your Todo work.
-  It updates its value with the help of `useState()`
-
-- ## 06MovieHub ([link](https://sudhanshu-moviehub.netlify.app/))
-
-  This Template is for get movie details.
-
-- ## 07PasswordGenerator ([link](https://sudhanshu-password-generator.netlify.app/))
-
-  This Template is for Generate password.
-
-  It uses `useState` for storing and updating values
-  for optimization it uses `useCallback`
-  for re-run if anything changes it uses `useEffect`
-  for giving select effect when user click to copy it uses `useRef`
-
-- ## React Rounter
-
-  On this we will learn about React-Rounter.
-
-- ## Redux - Counter App
-
-  On this we will learn about redux in react and build Counter App.
-
-- ## Redux - Todo App
-
-  On this we will learn about redux in react and build Todo App.
+```
+git clone https://github.com/SudhanshuModi/fsjs/tree/main/04_react/11CurrencyConverter
+cd 11CurrencyConverter
+npm i
+npm run dev
+```
