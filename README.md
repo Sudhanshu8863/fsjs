@@ -60,3 +60,4 @@
 - [08ReactRouterDemo](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/08ReactRouterDemo)
 - [09counterwithRedux](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/09counterwithRedux)
 - [10redux-todo](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/10redux-todo)
+- [11CurrencyConverter](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/11CurrencyConverter)
