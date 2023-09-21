@@ -21,3 +21,7 @@
 - ## PasswordGenerator
 
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/passwordGeneratorDist) and [website](https://sudhanshu-password-generator.netlify.app/)
+
+- ## CurrencyConverter
+
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/currencyConverterDist) and [website](https://sudhanshu-currencyconverter.netlify.app/)
