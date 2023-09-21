@@ -49,5 +49,7 @@
 - ## 11 Currency Counter ([link](https://sudhanshu-currencyconverter.netlify.app/))
 
   This Template is for Currency Converter.
+
   It uses `useState` for storing and updating values
+
   Here we design custom Hook.
