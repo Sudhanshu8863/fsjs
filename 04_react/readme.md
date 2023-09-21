@@ -34,14 +34,14 @@
   for re-run if anything changes it uses `useEffect`
   for giving select effect when user click to copy it uses `useRef`
 
-- ## React Rounter
+- ## 08ReactRounter
 
   On this we will learn about React-Rounter.
 
-- ## Redux - Counter App
+- ## 09 Redux - Counter App
 
   On this we will learn about redux in react and build Counter App.
 
-- ## Redux - Todo App
+- ## 10 Redux - Todo App
 
   On this we will learn about redux in react and build Todo App.
