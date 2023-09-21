@@ -1,8 +1,23 @@
-# React + Vite
+# Currency Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [link](https://sudhanshu-currencyconverter.netlify.app/)
 
-Currently, two official plugins are available:
+This Template is for Currency Converter.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It uses `useState` for storing and updating values
+
+Here we design custom Hook.
+
+### Features
+
+- It fetches data from API and show you results
+- You can select currency and swap it according to yourself
+
+## for cloning this site and run use these commands:
+
+```
+git clone https://github.com/SudhanshuModi/fsjs/tree/main/04_react/11CurrencyConverter
+cd 11CurrencyConverter
+npm i
+npm run dev
+```
