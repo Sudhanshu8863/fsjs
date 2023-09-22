@@ -57,3 +57,7 @@
 - ## 12miniContext
 
   This Template is for basic Context API.
+
+- ## 13contextThemeSwitcher
+
+  This Template is for basic Context API.
