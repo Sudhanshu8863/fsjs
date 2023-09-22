@@ -61,3 +61,4 @@
 - [09counterwithRedux](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/09counterwithRedux)
 - [10redux-todo](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/10redux-todo)
 - [11CurrencyConverter](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/11CurrencyConverter)
+- [12miniContext](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/12miniContext)
