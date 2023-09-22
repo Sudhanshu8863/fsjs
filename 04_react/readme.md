@@ -53,3 +53,7 @@
   It uses `useState` for storing and updating values
 
   Here we design custom Hook.
+
+- ## 12miniContext
+
+  This Template is for basic Context API.
