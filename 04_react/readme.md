@@ -65,3 +65,7 @@
 - ## 14todoContextLocal
 
   This Template is for Todo app using Context API.
+
+- ## 15Todo-ReduxToolkit
+
+  This Template is for Todo app using Redux-Toolkit.
