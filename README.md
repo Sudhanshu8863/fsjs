@@ -64,3 +64,4 @@
 - [12miniContext](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/12miniContext)
 - [13contextThemeSwitcher](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/13contextThemeSwitcher)
 - [14todoContextLocal](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/14todoContextLocal)
+- [14todoWithReduxToolkit](https://github.com/SudhanshuModi/fsjs/tree/main/04_react/15Todo-ReduxToolkit)
