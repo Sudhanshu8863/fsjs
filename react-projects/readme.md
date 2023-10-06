@@ -25,3 +25,7 @@
 - ## CurrencyConverter
 
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/currencyConverterDist) and [website](https://sudhanshu-currencyconverter.netlify.app/)
+
+- ## Todo-ReduxToolkit
+
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/todoAppWithReduxDist) and [website](https://sudhanshu-todoapp.netlify.app/)
