@@ -29,3 +29,7 @@
 - ## Todo-ReduxToolkit
 
   ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/todoAppWithReduxDist) and [website](https://sudhanshu-todoapp.netlify.app/)
+
+- ## Youtube-Sudhanshu
+
+  ### [files](https://github.com/SudhanshuModi/fsjs/tree/main/react-projects/youtubeSudhanshuDist) and [website](https://youtube-sudhanshu.netlify.app/)
