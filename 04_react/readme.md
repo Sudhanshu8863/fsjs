@@ -69,3 +69,9 @@
 - ## 15Todo-ReduxToolkit
 
   This Template is for Todo app using Redux-Toolkit.
+
+- ## 16 Youtube clone ([link](https://youtube-sudhanshu.netlify.app/))
+
+  This Template is for Youtube with Live data.
+
+  features - `search`, `live`, `upcoming`, `shimmerEffect`, `WatchPage`
