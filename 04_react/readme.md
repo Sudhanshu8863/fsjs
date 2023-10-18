@@ -74,4 +74,4 @@
 
   This Template is for Youtube with Live data.
 
-  features - `search`, `live`, `upcoming`, `shimmerEffect`, `WatchPage`
+  features - `search`, `live`, `upcoming`, `shimmerEffect`, `WatchPage`, `comment`
