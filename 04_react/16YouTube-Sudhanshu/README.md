@@ -1,8 +1,7 @@
-# React + Vite
+# React + Vite + Redux + Real Time API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a setup to get Youtube working in Vite with React, Redux-Toolkit and some Real Time API.
 
-Currently, two official plugins are available:
+The official Website Links are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [youtube-sudhanshu](https://youtube-sudhanshu.netlify.app/)
